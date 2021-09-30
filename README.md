@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 300px" />
-</div>  
-  
+# Hi 👋, I'm Ricardo Soto
 
 <div align="center">Soy profesional de desarrollo de software con más de diez años de experiencia. A lo largo de mi carrera he ido adquiriendo una mayor amplitud técnica, lo que me ha permitido tomar mejores decisiones a la hora de afrontar un problema o proponer una solución innovadora. Tengo experiencia en aplicaciones monolíticos y distribuidos. Actualmente trabajo con NodeJS y Angular... También tengo experiencia en: React, Redux, TypeScript, Test Unit, GraphQL, CI/CD, entre otros.
 <br>
