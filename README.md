@@ -107,7 +107,7 @@
 <br/>  
 
 <div align="center">
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=rikhardt&layout=compact)](https://github.com/rikhardt/rikhardt)
+<img src="https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=rikhardt&layout=compact" align="center" />
 </div>
 
 <br/>  
