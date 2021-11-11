@@ -103,14 +103,13 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rikhardt&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>
-----
+
 <br/>  
 
+<div align="center">
 [![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=rikhardt&layout=compact)](https://github.com/rikhardt/rikhardt)
+</div>
 
-<br/>
-----
 <br/>  
 
 ## Recent Blog Posts  
